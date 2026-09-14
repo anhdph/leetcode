@@ -1,5 +1,5 @@
-# https-github.com-anhdph-leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Leetcode
+LeetCode solutions focused on SQL and Python for data analysis — covering data querying, aggregation, joins, window functions, and practical problem-solving techniques.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
