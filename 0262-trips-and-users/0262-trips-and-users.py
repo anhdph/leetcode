@@ -3,11 +3,8 @@ import pandas as pd
 def trips_and_users(trips: pd.DataFrame, users: pd.DataFrame) -> pd.DataFrame:
 
     banned_users = users['users_id'][
-        (users['banned'] == 'Yes') &
-        (users['role'].isin(['driver', 'client']))
+        (users['banned'] == 'Yes')
     ]
-
-    trips['request_at'] = pd.to_datetime(trips['request_at'])
 
     trips = trips[
         (trips['request_at'].between('2013-10-01', '2013-10-03')) &
