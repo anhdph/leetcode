@@ -18,6 +18,7 @@ LeetCode solutions focused on SQL and Python for data analysis — covering data
 | [0196-delete-duplicate-emails](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0511-game-play-analysis-i) |
+| [0584-find-customer-referee](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0601-human-traffic-of-stadium](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0620-not-boring-movies) |
