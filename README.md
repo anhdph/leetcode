@@ -24,6 +24,7 @@ LeetCode solutions focused on SQL and Python for data analysis — covering data
 | [0608-tree-node](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1341-movie-rating](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/1341-movie-rating) |
 | [3451-find-invalid-ip-addresses](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/3451-find-invalid-ip-addresses) |
 ## Array
 |  |
