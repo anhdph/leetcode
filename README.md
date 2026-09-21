@@ -19,6 +19,7 @@ LeetCode solutions focused on SQL and Python for data analysis — covering data
 | [0262-trips-and-users](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0601-human-traffic-of-stadium](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0608-tree-node) |
