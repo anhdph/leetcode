@@ -53,4 +53,12 @@ LeetCode solutions focused on SQL and Python for data analysis — covering data
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
