@@ -32,6 +32,7 @@ LeetCode solutions focused on SQL and Python for data analysis — covering data
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0001-two-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,12 @@ LeetCode solutions focused on SQL and Python for data analysis — covering data
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
