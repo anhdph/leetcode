@@ -7,6 +7,6 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        ans = np.sum(matrix, axis=0).tolist()
+        ans = [sum(row) for row in matrix]
 
         return ans
