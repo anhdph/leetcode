@@ -6,11 +6,7 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: List[int]
         """
-        
-        ans = [0] * len(matrix[0])
 
-        for i in range(len(matrix[0])):
-            for j in range(len(matrix)):
-                ans[i] += matrix[j][i]
+        ans = np.sum(matrix, axis=0).tolist()
 
         return ans
