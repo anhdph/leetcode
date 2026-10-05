@@ -30,6 +30,7 @@ LeetCode solutions focused on SQL and Python for data analysis — covering data
 | [1741-find-total-time-spent-by-each-employee](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/1795-rearrange-products-table) |
 | [3451-find-invalid-ip-addresses](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/3451-find-invalid-ip-addresses) |
+| [3475-dna-pattern-recognition](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/3475-dna-pattern-recognition) |
 ## Array
 |  |
 | ------- |
