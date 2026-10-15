@@ -24,6 +24,7 @@ LeetCode solutions focused on SQL and Python for data analysis — covering data
 | [0601-human-traffic-of-stadium](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1341-movie-rating](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/1341-movie-rating) |
 | [1527-patients-with-a-condition](https://github.com/anhdph/https-github.com-anhdph-leetcode/tree/master/1527-patients-with-a-condition) |
