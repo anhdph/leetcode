@@ -5,7 +5,7 @@ def find_employees(employee: pd.DataFrame) -> pd.DataFrame:
         employee[['id', 'salary']],
         left_on='managerId',
         right_on='id',
-        how='left'
+        how='inner'
     )
 
     df = df[df['salary_x'] > df['salary_y']]['name']
