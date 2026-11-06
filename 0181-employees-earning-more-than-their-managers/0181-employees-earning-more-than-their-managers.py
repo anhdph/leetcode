@@ -1,14 +1,13 @@
 import pandas as pd
 
 def find_employees(employee: pd.DataFrame) -> pd.DataFrame:
-
     df = employee.merge(
-        employee,
+        employee[['id', 'salary']],
         left_on='managerId',
         right_on='id',
-        how='left'
+        how='inner'
     )
 
-    df = df[df['salary_x'] > df['salary_y']]
+    df = df['name'][df['salary_x'] > df['salary_y']]
 
-    return df[['name_x']].rename(columns={'name_x': 'Employee'})
+    return pd.DataFrame({'Employee': df})
