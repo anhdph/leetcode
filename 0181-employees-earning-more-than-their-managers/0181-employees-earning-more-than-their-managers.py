@@ -5,9 +5,9 @@ def find_employees(employee: pd.DataFrame) -> pd.DataFrame:
         employee[['id', 'salary']],
         left_on='managerId',
         right_on='id',
-        how='inner'
+        how='left'
     )
 
-    df = df['name'][df['salary_x'] > df['salary_y']]
+    df = df[df['salary_x'] > df['salary_y']]['name']
 
     return pd.DataFrame({'Employee': df})
